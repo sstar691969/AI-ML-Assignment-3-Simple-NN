@@ -1,5 +1,5 @@
 # AI-ML-Assignment-3-Simple-NN
-William Anderson/
+William Anderson/AD331
 
 
 MNIST DATA SET - numbers machine learning - neuron/ Neural Networks
