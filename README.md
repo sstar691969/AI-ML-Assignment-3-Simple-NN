@@ -1,6 +1,8 @@
 # AI-ML-Assignment-3-Simple-NN
-William Anderson
-MNIST Data Set - numbers machine learning - neuron/ Neural Networks
+William Anderson/
+
+
+MNIST DATA SET - numbers machine learning - neuron/ Neural Networks
 Frameworks/imports:
 import pandas as pd
 
